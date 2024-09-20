@@ -1,0 +1,9 @@
+*.log
+!error.log
+senedler?.doc
+
+logs
+
+log/
+/log/
+/log/*
